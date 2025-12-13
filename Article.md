@@ -19,7 +19,7 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 
-![Average Salary by Side of the Ball](images/avg_salary_by_group.png)
+![Bar chart showing Average Salary by Side of the Ball](avg_salary_by_group.png)
 ## This is a bar chart comparing the average salary of offensive, defensive and special teams players. 
 
 
