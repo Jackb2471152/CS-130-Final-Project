@@ -15,7 +15,7 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Bar chart showing average salary by position](avg_salary_by_position.png)
-## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how m
+## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how much each specific position makes compared to all other positions.
 
 
 
