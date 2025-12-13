@@ -15,7 +15,7 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Bar chart showing average salary by position](avg_salary_by_position.png)
-## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how much each specific position makes compared to all other positions. This data also helps us to find which position group makes the highest average salary and which position group makes the lowest average salary. As we can see from the data quarterbacks
+## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how much each specific position makes compared to all other positions. This data also helps us to find which position group makes the highest average salary and which position group makes the lowest average salary. As we can see from the data quarterbacks are the highest paid and long-snappers are the lowest paid.
 
 
 
