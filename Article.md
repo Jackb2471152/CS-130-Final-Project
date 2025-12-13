@@ -19,8 +19,8 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 
-![Bar chart showing Average Salary by Side of the Ball](avg_salary_by_group.png)
-## This is a bar chart comparing the average salary of offensive, defensive and special teams players. 
+![Bar chart showing average salary by side of the ball](avg_salary_by_group.png)
+## This is a bar chart comparing the average salary of offensive, defensive and special teams players. By looking at this data you can see that offensive players get paid the most. Following this you can see that defensive players make almost as much but not qui
 
 
 
