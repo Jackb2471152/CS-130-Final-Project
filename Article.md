@@ -10,7 +10,7 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Pie chart showing number of players per position](players_by_position_pie.png)
-## This is a chart that shows how many of each player there is listed per position. By looking at this chart we can see that the amount of offensive and defensive players are relatively the same. However, it seems that their is more offensive position due to the fact that I grouped most of the defense to provide accurate data. This data also shows us which position groups contained the most players and had the largest sample size. 
+## This is a chart that shows how many of each player there is listed per position. By looking at this chart we can see that the amount of offensive and defensive players are relatively the same. However, it seems that their is more offensive positions due to the fact that I grouped most of the defense to provide accurate data. This data also shows us which position groups contained the most players and had the largest sample size. 
 
 
 
@@ -20,7 +20,7 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Bar chart showing average salary by side of the ball](avg_salary_by_group.png)
-## This is a bar chart comparing the average salary of offensive, defensive and special teams players. This data alos you to compare which side of the ball makes a higher average salary. By looking at this data you can see that offensive players get paid the most. Following this you can see that defensive players make almost as much and then special teams makes the least average salary. 
+## This is a bar chart comparing the average salary of offensive, defensive and special teams players. This data also you to compare which side of the ball makes a higher average salary. By looking at this data you can see that offensive players get paid the most. Following this you can see that defensive players make almost as much and then special teams makes the least average salary. 
 
 
 
