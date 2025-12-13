@@ -10,11 +10,14 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Pie chart showing number of players per position](players_by_position_pie.png)
-This is a chart that shows how many of each player there is listed per position. 
+## This is a chart that shows how many of each player there is listed per position. 
 
 
 
 ![Bar chart showing average salary by position](avg_salary_by_position.png)
-This is a bar chart showing the average salary of each position
+## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how m
+
+
+
 
 
