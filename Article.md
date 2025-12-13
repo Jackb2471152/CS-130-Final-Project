@@ -10,12 +10,12 @@ In my opinion based on my research I feel that these atheletes are paid the corr
 
 
 ![Pie chart showing number of players per position](players_by_position_pie.png)
-## This is a chart that shows how many of each player there is listed per position. 
+## This is a chart that shows how many of each player there is listed per position. By looking at this chart we can see that the amount of offensive and defensive players are relatively the same. However, it seems that their is more offensive position due to the fact that I grouped most of the defense to provide accurate data. This data also shows us which position groups contained the most players and had the largest sample size. 
 
 
 
 ![Bar chart showing average salary by position](avg_salary_by_position.png)
-## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how much each specific position makes compared to all other positions.
+## This is a bar chart showing the average salary of each position. By looking at this data we can see just exactly how much each specific position makes compared to all other positions. This data also helps us to find which position group makes the highest average salary and which position group makes the lowest average salary. As we can see from the data quarterbacks
 
 
 
